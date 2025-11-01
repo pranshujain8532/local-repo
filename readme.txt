@@ -7,8 +7,8 @@ git commit -m "initialised"
 git remote add origin https://github.com/pranshujain8532/local-repo.git
 remote -v
 git branch 
-git branch -M 
-git push -u origin main
+git branch -M (branch name) ---to change branch name
+git push -u origin (branch name)
 
 
 
